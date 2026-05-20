@@ -51,8 +51,8 @@
 ---
 
 
-<div align="center">
-  <h3>Conoceme</h3>
+<div align="left">
+  <h3>Conoceme:</h3>
   <a href="https://www.linkedin.com/in/abril-gavilan-67a33732a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45" />
   </a>
