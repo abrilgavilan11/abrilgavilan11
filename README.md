@@ -1,4 +1,4 @@
-# Hola, soy Abril Gavilan <img src="https://media.giphy.com/media/VbA7V1O1a1Z8Lp69M7/giphy.gif" width="30px">
+# Hola, soy Abril Gavilan <img src="https://static.emojiall.com/img/apple/160/1f44b.png" height="30" alt="Mano saludando">
 
 ### Desarrolladora Full-Stack y Estudiante de Desarrollo Web
 
@@ -38,8 +38,9 @@
 
 ### 🤖 Un poco de humor
 <p align="left">
-  <img src="meme_programacion.jpeg" alt="Meme de Rafa Gorgory programando" width="350px">
+  <img src="https://img.ifunny.co/images/07d8001e3e8f85f3408f6534570d5a371c19b67b14d89851722e0b57e7534440_1.jpg" alt="Meme de Rafa Gorgory programando" width="400">
 </p>
+<p><i>Nota: He usado un enlace público estable para el meme.</i></p>
 
 ---
 
