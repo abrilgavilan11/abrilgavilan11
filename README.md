@@ -1,4 +1,4 @@
-# Hola, soy Abril Gavilan 👋
+# Hola, soy Abril Gavilan <img src="https://media.giphy.com/media/VbA7V1O1a1Z8Lp69M7/giphy.gif" width="30px">
 
 ### Desarrolladora Full-Stack y Estudiante de Desarrollo Web
 
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-Escuchar_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Lenguajes y Herramientas
@@ -35,12 +36,19 @@
 
 ---
 
-### 📫 Contactame:
+### 🤖 Un poco de humor
 <p align="left">
-  <a href="https://www.linkedin.com/in/abril-gavilan-67a33732a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/abrugavilan/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="meme_programacion.jpeg" alt="Meme de Rafa Gorgory programando" width="350px">
 </p>
+
+---
+
+<div align="center">
+  <h3>Conoceme</h3>
+  <a href="https://www.linkedin.com/in/abril-gavilan-67a33732a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/abrugavilan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45" />
+  </a>
+</div>
