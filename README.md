@@ -9,14 +9,14 @@
 
 ---
 
-### 🎵 
+### 🎵 Mi canción del momento
 <p align="left">
   <a href="https://open.spotify.com/intl-es/track/3C5OdJjudhoDye8E5mU3nI?si=d49043aa41d243ca" target="_blank">
     <img src="https://img.shields.io/badge/-Escuchar_en_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
----
+
 
 ### 🛠️ Lenguajes y Herramientas
 <p align="left"> 
@@ -34,13 +34,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
+
 
 ### 🤖 Un poco de humor
 <p align="left">
   <img src="https://img.ifunny.co/images/07d8001e3e8f85f3408f6534570d5a371c19b67b14d89851722e0b57e7534440_1.jpg" alt="Meme de Rafa Gorgory programando" width="400">
 </p>
-<p><i>Nota: He usado un enlace público estable para el meme.</i></p>
 
 ---
 
