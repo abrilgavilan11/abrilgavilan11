@@ -7,7 +7,9 @@
 * 💻 Trabajando en aplicaciones web creativas (y quizás en algunos proyectos de desarrollo relacionados con Minecraft ⛏️).
 * 🎧 Dato curioso: Cuando no estoy programando, probablemente me encuentres nadando o escuchando a Charly García 🎹✨.
 
+
 ---
+
 
 ### 🎵 Mi canción del momento
 <p align="left">
@@ -16,7 +18,9 @@
   </a>
 </p>
 
---
+
+---
+
 
 ### 🛠️ Lenguajes y Herramientas
 <p align="left"> 
@@ -34,14 +38,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
---
+
+---
+
 
 ### 🤖 Un poco de humor
 <p align="center">
   <img width="201" height="251" alt="meme_programacion" src="https://github.com/user-attachments/assets/8f9e4192-3caa-4b11-970c-8b4669a5d387" />
 </p>
 
+
 ---
+
 
 <div align="center">
   <h3>Conoceme</h3>
