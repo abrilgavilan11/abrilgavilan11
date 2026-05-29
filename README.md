@@ -42,15 +42,6 @@
 ---
 
 
-### 🤖 Un poco de humor
-<p align="center">
-  <img width="201" height="251" alt="meme_programacion" src="https://github.com/user-attachments/assets/8f9e4192-3caa-4b11-970c-8b4669a5d387" />
-</p>
-
-
----
-
-
 <div align="left">
   <h3>Conoceme:</h3>
   <a href="https://www.linkedin.com/in/abril-gavilan-67a33732a/" target="_blank">
